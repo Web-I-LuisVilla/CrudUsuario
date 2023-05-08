@@ -15,7 +15,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Formulario</h1>
+      <h1>Crud</h1>
       {/* <img src="" alt="" srcset="" /> */}
       <CrudApp />
     </>
