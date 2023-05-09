@@ -93,7 +93,7 @@ const CrudApp = () => {
 
   return (
     <div>
-      {/* <h2>Name</h2> */}
+      <h2>Luis Villa y Ronaldo Suarez</h2>
       <CrudForm
         creatData={creatData}
         updateData={updateData}
